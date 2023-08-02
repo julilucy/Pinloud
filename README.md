@@ -7,9 +7,15 @@ Onde você apenas pode Criar imagens se estiver cadastrado e logado em nosso sis
 Será composto por algumas páginas para ser mais clean, no entanto funcional. 
 
 O grupo que está compondo esse projeto é:
+
 Felipe - Gerente de Projetos, Auxiliar Banco de Dados
+
 Maria Júlia - Designer, Front-End
+
 Gabriel Finotti - Front-End Principal, Auxiliar Fullstack
+
 Diogo - Back-End
+
 Luan - Back-End
+
 Luiz Henrique - Documentação, Auxiliar
